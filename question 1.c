@@ -22,7 +22,6 @@ int nextprime(int n){
     next++;
    }
    return next;
-
 }
 int main(){
 int num;
